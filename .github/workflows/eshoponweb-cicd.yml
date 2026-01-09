@@ -9,7 +9,7 @@ env:
   LOCATION: uksouth
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 311e8cd1-10f6-44df-98b4-be72a5367579
-  WEBAPP-NAME: az2006appeshop15771
+  WEBAPP-NAME: az2006app15771
 
 jobs:
   #Build, test and publish .net web project in repository
